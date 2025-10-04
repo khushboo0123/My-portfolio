@@ -17,11 +17,11 @@ I’m passionate about **AI/ML, Web Development, and Programming**.
 ## 🔹 Projects
 ### 1. Simple Portfolio Website 🌐
 A basic **HTML + CSS** portfolio page.  
-👉 [View Code](./portfolio-website)  
+👉 [View Code](./portfolio-website/index.html)  
 
 ### 2. Python Calculator 🧮
 A calculator using **Python basics**.  
-👉 [View Code](./python-calculator)  
+👉 [View Code](./python-calculator/calculator.py)  
 
 ---
 
