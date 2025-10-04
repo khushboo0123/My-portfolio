@@ -26,3 +26,4 @@ elif op == '/':
     print("Result:", div(a, b))
 else:
     print("Invalid operator")
+
