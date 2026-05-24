@@ -1,7 +1,7 @@
 # My-portfolio
-# 🌸 Khushboo's Portfolio
+# 🌸 Khushboo  Portfolio
 
-Hi, I'm **Khushboo Rajput**, a student at **Ajay Kumar Garg Engineering College, Ghaziabad (UP)**.  
+Hi, I'm **Khushboo **, a student at **Ajay Kumar Garg Engineering College, Ghaziabad (UP)**.  
 I’m passionate about **AI/ML, Web Development, and Programming**.  
 
 ---
@@ -36,7 +36,7 @@ A calculator using **Python basics**.
 ## 🔹 Connect With Me
 - 📌 GitHub: [khushboo0123](https://github.com/khushboo0123)  
 - 📧 Email: kkhushabu032@gmail.com   
-- 💼 LinkedIn: https://www.linkedin.com/in/khushboo  
+- 💼 LinkedIn: https://www.linkedin.com/in/khushboo-508634317  
 
 ---
 
