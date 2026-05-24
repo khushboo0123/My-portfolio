@@ -21,7 +21,7 @@ A basic **HTML + CSS** portfolio page.
 
 ### 2. Python Calculator 🧮
 A calculator using **Python basics**.  
-👉 [View Code](./python-calculator/calculator.py)  
+👉 [View Code](my-portfolio/calculator.py)  
 
 ---
 
